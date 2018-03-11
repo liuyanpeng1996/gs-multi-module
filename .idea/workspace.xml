@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d2c08afb-4aba-4e22-a5a4-09c1064fbf6a" name="Default" comment="" />
+    <list default="true" id="d2c08afb-4aba-4e22-a5a4-09c1064fbf6a" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="$PROJECT_DIR$/application/.gradle/" />
     <ignored path="$PROJECT_DIR$/application/build/" />
     <ignored path="$PROJECT_DIR$/application/out/" />
@@ -1132,6 +1134,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -1248,7 +1251,7 @@
       <option name="presentableId" value="Default" />
       <updated>1520747315166</updated>
       <workItem from="1520747317862" duration="1066000" />
-      <workItem from="1520748980190" duration="1536000" />
+      <workItem from="1520748980190" duration="2232000" />
     </task>
     <task id="LOCAL-00001" summary="new user commit">
       <created>1520749899379</created>
@@ -1261,7 +1264,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2602000" />
+    <option name="totallyTimeSpent" value="3298000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="0" width="1269" height="962" extended-state="0" />
