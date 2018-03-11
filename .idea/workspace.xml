@@ -1040,7 +1040,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="-8" />
     <option name="width" value="1269" />
     <option name="height" value="962" />
@@ -1251,7 +1251,7 @@
       <option name="presentableId" value="Default" />
       <updated>1520747315166</updated>
       <workItem from="1520747317862" duration="1066000" />
-      <workItem from="1520748980190" duration="2232000" />
+      <workItem from="1520748980190" duration="2273000" />
     </task>
     <task id="LOCAL-00001" summary="new user commit">
       <created>1520749899379</created>
@@ -1260,14 +1260,21 @@
       <option name="project" value="LOCAL" />
       <updated>1520749899379</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="new user commit">
+      <created>1520751884848</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1520751884848</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3298000" />
+    <option name="totallyTimeSpent" value="3339000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="0" width="1269" height="962" extended-state="0" />
+    <frame x="-8" y="0" width="1269" height="962" extended-state="1" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
