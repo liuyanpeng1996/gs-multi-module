@@ -5,6 +5,9 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/application/application.iml" filepath="$PROJECT_DIR$/.idea/modules/application/application.iml" group="application" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/application/application_main.iml" filepath="$PROJECT_DIR$/.idea/modules/application/application_main.iml" group="application" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/application/application_test.iml" filepath="$PROJECT_DIR$/.idea/modules/application/application_test.iml" group="application" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/domain.iml" filepath="$PROJECT_DIR$/.idea/modules/domain.iml" group="domain" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/domain/domain_main.iml" filepath="$PROJECT_DIR$/.idea/modules/domain/domain_main.iml" group="domain" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/domain/domain_test.iml" filepath="$PROJECT_DIR$/.idea/modules/domain/domain_test.iml" group="domain" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/gs-multi-module.iml" filepath="$PROJECT_DIR$/.idea/modules/gs-multi-module.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/library.iml" filepath="$PROJECT_DIR$/.idea/modules/library.iml" group="library" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/library/library_main.iml" filepath="$PROJECT_DIR$/.idea/modules/library/library_main.iml" group="library" />
